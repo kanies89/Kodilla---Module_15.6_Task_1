@@ -1,4 +1,6 @@
-# Kodilla---Module_15.6_Task_1
-Python / NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn / Jupyter Notebook
+# Scikit-learn-GridSearchCV
 
-Pipeline / Model difference. Aplication of GridSearchCV for hyperparameters
+Python / Jupyter notebook
+libraries: NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn
+
+Pipeline / Model difference. Aplication of GridSearchCV for hyperparameters and evaluation of the models.
